@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kgaur17
+- 👋 Hi, I’m @Kuldeep gaur
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning react and JavaScript
 - 💞️ I’m looking to collaborate on frontend project
